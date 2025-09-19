@@ -10,5 +10,4 @@ osmnx
 pyproj
 pyrosm
 requests
-sklearn
 shapely
