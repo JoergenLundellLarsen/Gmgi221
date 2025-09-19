@@ -1,0 +1,14 @@
+bokeh
+contextily
+folium
+geojson
+geopandas
+geopy
+mapclassify
+matplotlib
+osmnx
+pyproj
+pyrosm
+requests
+sklearn
+shapely
